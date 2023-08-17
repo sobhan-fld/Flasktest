@@ -6,6 +6,7 @@ import time
 import Angle_cal as angle
 from datetime import datetime
 import threading
+from flask import request
 
 app = Flask(__name__)
 mp_drawing = mp.solutions.drawing_utils
@@ -137,6 +138,13 @@ def detect_body():
     cap.release()
 
 
-@app.route('/video_feed')
+
+@app.route('/video_feed', methods=['POST'])
 def video_feed():
-    return Response(detect_body(), mimetype='multipart/x-mixed-replace; boundary=frame')
+    def generate_frames():
+        while True:
+            frame = request.data  # Get frame data from the POST request
+            yield (b'--frame\r\n'
+                   b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n')
+
+    return Response(generate_frames(), mimetype='multipart/x-mixed-replace; boundary=frame')
