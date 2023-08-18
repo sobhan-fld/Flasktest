@@ -1,0 +1,482 @@
+[
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 158,
+        "left_elbow_angle": 172,
+        "right_arm_angle": 23,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 160,
+        "left_elbow_angle": 166,
+        "right_arm_angle": 24,
+        "left_arm_angle": 15,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 161,
+        "left_elbow_angle": 164,
+        "right_arm_angle": 24,
+        "left_arm_angle": 15,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 161,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 24,
+        "left_arm_angle": 15,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 160,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 23,
+        "left_arm_angle": 15,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 159,
+        "left_elbow_angle": 166,
+        "right_arm_angle": 23,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 159,
+        "left_elbow_angle": 166,
+        "right_arm_angle": 23,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 159,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 159,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 22,
+        "left_arm_angle": 17,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 159,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 22,
+        "left_arm_angle": 17,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:29",
+        "right_elbow_angle": 159,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 22,
+        "left_arm_angle": 17,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 158,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 22,
+        "left_arm_angle": 17,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 158,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 22,
+        "left_arm_angle": 17,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 17,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 17,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 17,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 17,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 22,
+        "left_arm_angle": 16,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 22,
+        "left_arm_angle": 15,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 172,
+        "right_arm_angle": 22,
+        "left_arm_angle": 14,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:30",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 22,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 171,
+        "right_arm_angle": 22,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 155,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 22,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 155,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 22,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 154,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 155,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 22,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 21,
+        "left_arm_angle": 12,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 21,
+        "left_arm_angle": 11,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 155,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 21,
+        "left_arm_angle": 11,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 155,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 21,
+        "left_arm_angle": 11,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 155,
+        "left_elbow_angle": 170,
+        "right_arm_angle": 21,
+        "left_arm_angle": 11,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 21,
+        "left_arm_angle": 12,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 21,
+        "left_arm_angle": 12,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 167,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 155,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:31",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 21,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:32",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 168,
+        "right_arm_angle": 20,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:32",
+        "right_elbow_angle": 157,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 20,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    },
+    {
+        "time": "2023-08-18 10:05:32",
+        "right_elbow_angle": 156,
+        "left_elbow_angle": 169,
+        "right_arm_angle": 20,
+        "left_arm_angle": 13,
+        "exercise_count": 0
+    }
+]

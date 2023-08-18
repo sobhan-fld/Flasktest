@@ -2,9 +2,42 @@
 <html>
 <head>
     <title>Body Detection with Mediapipe</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
     <h1>Body Detection with Mediapipe</h1>
-    <img src="{{ url_for('video_feed') }}" alt="Body Detection">
+    <video id="player" width="600" height="450" autoplay></video>
+    <img id="output" width="600" height="450" />
+
+    <script>
+        const constraints = {
+            video: {
+                width: { ideal: 480 },
+                height: { ideal: 480 }
+            }
+        };
+
+        let video = document.querySelector('#player');
+        navigator.mediaDevices.getUserMedia(constraints)
+            .then((stream) => {
+                video.srcObject = stream;
+                setInterval(sendFrameToServer, 1000);  // Send frame every second
+            })
+            .catch((error) => {
+                console.error("Error accessing media devices.", error);
+            });
+
+        function sendFrameToServer() {
+            let canvas = document.createElement('canvas');
+            canvas.width = video.videoWidth;
+            canvas.height = video.videoHeight;
+            canvas.getContext('2d').drawImage(video, 0, 0);
+            let dataURL = canvas.toDataURL('image/jpeg');
+            $.post("/process_frame", { image: dataURL }, function(data) {
+                // Display the processed image returned from the server
+                document.getElementById("output").src = data.image;
+            });
+        }
+    </script>
 </body>
 </html>
